@@ -1,0 +1,8 @@
+**/bin
+**/obj
+**/.vs
+**/.o
+**/packages
+*.exe
+*.dll
+*.user
