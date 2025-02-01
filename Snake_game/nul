@@ -1,0 +1,2 @@
+mkdir: cannot create directory ‘obj’: File exists
+mkdir: cannot create directory ‘bin’: File exists
