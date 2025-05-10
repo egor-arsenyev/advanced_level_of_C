@@ -1,0 +1,97 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-I./inc/",
+      "-I./inc/",
+      "-I./inc/",
+      "-I./inc/",
+      "-I./inc/",
+      "-Wall",
+      "-Wextra",
+      "-c",
+      "-o",
+      "obj/ai.c.o",
+      "./src/ai.c"
+    ],
+    "directory": "/mnt/c/embedded/advanced_level_of_C/Snake_game",
+    "file": "/mnt/c/embedded/advanced_level_of_C/Snake_game/src/ai.c",
+    "output": "/mnt/c/embedded/advanced_level_of_C/Snake_game/obj/ai.c.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-I./inc/",
+      "-I./inc/",
+      "-I./inc/",
+      "-I./inc/",
+      "-I./inc/",
+      "-Wall",
+      "-Wextra",
+      "-c",
+      "-o",
+      "obj/food.c.o",
+      "./src/food.c"
+    ],
+    "directory": "/mnt/c/embedded/advanced_level_of_C/Snake_game",
+    "file": "/mnt/c/embedded/advanced_level_of_C/Snake_game/src/food.c",
+    "output": "/mnt/c/embedded/advanced_level_of_C/Snake_game/obj/food.c.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-I./inc/",
+      "-I./inc/",
+      "-I./inc/",
+      "-I./inc/",
+      "-I./inc/",
+      "-Wall",
+      "-Wextra",
+      "-c",
+      "-o",
+      "obj/main.c.o",
+      "./src/main.c"
+    ],
+    "directory": "/mnt/c/embedded/advanced_level_of_C/Snake_game",
+    "file": "/mnt/c/embedded/advanced_level_of_C/Snake_game/src/main.c",
+    "output": "/mnt/c/embedded/advanced_level_of_C/Snake_game/obj/main.c.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-I./inc/",
+      "-I./inc/",
+      "-I./inc/",
+      "-I./inc/",
+      "-I./inc/",
+      "-Wall",
+      "-Wextra",
+      "-c",
+      "-o",
+      "obj/snake.c.o",
+      "./src/snake.c"
+    ],
+    "directory": "/mnt/c/embedded/advanced_level_of_C/Snake_game",
+    "file": "/mnt/c/embedded/advanced_level_of_C/Snake_game/src/snake.c",
+    "output": "/mnt/c/embedded/advanced_level_of_C/Snake_game/obj/snake.c.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-I./inc/",
+      "-I./inc/",
+      "-I./inc/",
+      "-I./inc/",
+      "-I./inc/",
+      "-Wall",
+      "-Wextra",
+      "-c",
+      "-o",
+      "obj/utils.c.o",
+      "./src/utils.c"
+    ],
+    "directory": "/mnt/c/embedded/advanced_level_of_C/Snake_game",
+    "file": "/mnt/c/embedded/advanced_level_of_C/Snake_game/src/utils.c",
+    "output": "/mnt/c/embedded/advanced_level_of_C/Snake_game/obj/utils.c.o"
+  }
+]
