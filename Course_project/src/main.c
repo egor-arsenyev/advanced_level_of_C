@@ -40,6 +40,7 @@ double df3(double x) {
   return (-3 / (x * x));
 }
 
+// Функция вычисления корней комбинированным методом
 double root(double (*f)(double), double (*g)(double), double (*df)(double),
             double (*dg)(double), double a, double b, double eps,
             int *iterations) {
@@ -171,9 +172,9 @@ int main(int argc, char *argv[]) {
 
   if (argc < 2) {
     printf("\nПлощадь, образуемая кривыми: %.6f\n", total_area);
-    printf("\nВызовите программу с ключем --help для получения списка доступных "
-           "опций.\n");
-      return EXIT_SUCCESS;
+    printf("\nВызовите программу с ключом --help для получения списка "
+           "доступных опций.\n");
+    return EXIT_SUCCESS;
   }
 
   if (strcmp(argv[1], "--help") == 0) {
