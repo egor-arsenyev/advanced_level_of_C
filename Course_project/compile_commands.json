@@ -1,0 +1,16 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-c",
+      "-o",
+      "obj/main.c.o",
+      "./src/main.c"
+    ],
+    "directory": "/mnt/c/embedded/advanced_level_of_C/Course_project",
+    "file": "/mnt/c/embedded/advanced_level_of_C/Course_project/src/main.c",
+    "output": "/mnt/c/embedded/advanced_level_of_C/Course_project/obj/main.c.o"
+  }
+]
